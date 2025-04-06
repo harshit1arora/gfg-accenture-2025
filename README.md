@@ -35,7 +35,7 @@ Frontend Demo: Streamlit
 Deployment: Docker
 
 ## 📂 Repository Structure
-smartcart-ai/
+*smartcart-ai/
 │
 ├── agents/
 │   ├── user_agent.py        # Tracks behavior (clicks, dwell time)
@@ -56,8 +56,8 @@ smartcart-ai/
 │
 ├── tests/                  # Unit/integration tests
 ├── config.py               # API keys, paths
-└── main.py                 # Entry point
-
+└── main.py                 # Entry point*
+---------------------------------------------------------------------------------
 
 📜 License
 MIT © 2023 Harshit Arora
