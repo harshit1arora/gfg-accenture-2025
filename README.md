@@ -24,10 +24,16 @@ E-commerce platforms struggle with: Generic recommendations ("Customers also bou
 | ❌ Manual tagging | ✅ Auto-categorization using NLP |
 
 ## 🛠️ Tech Stack
-- **Backend**: Python, FastAPI
-- **ML Models**: LightFM (Collaborative Filtering), spaCy (NLP)
-- **Frontend**: Streamlit/React
-- **Database**: Redis (real-time caching)
+- Core Stack:
+AI/ML: Ollama embeddings, Sci-kit Learn
+Database: SQLite
+Agents: FastAPI, LangChain
+
+- Tools Used:
+Web Scraping: BeautifulSoup
+Frontend Demo: Streamlit 
+Deployment: Docker![image](https://github.com/user-attachments/assets/9e29ddc0-65c2-4785-bc1e-336bb44e658c)
+
 
 ## 📂 Repository Structure
 📜 License
