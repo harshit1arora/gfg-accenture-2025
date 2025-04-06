@@ -1,5 +1,5 @@
 # gfg-accenture-2025
-E-commerce platforms struggle with: Generic recommendations ("Customers also bought") that ignore individual preferences. Manual segmentation of users (e.g., "women aged 20-30") leading to irrelevant suggestions. Low conversion rates due to impersonalized browsing experiences. To solve these problems we have created SmartCart.
+E-commerce platforms struggle with: Generic recommendations ("Customers also bought") that ignore individual preferences. Manual segmentation of users (e.g., "women aged 20-30") leading to irrelevant suggestions. Low conversion rates due to impersonalized browsing experiences. To solve these problems we have created SmartCart. Code will be uploaded post submission. Currently under final testing. Please refer to demo video/PPT for walkthrough.
 
 # 🔍 Smart E-Commerce Recommendations
 
@@ -11,7 +11,7 @@ E-commerce platforms struggle with: Generic recommendations ("Customers also bou
 
 ## 🚀 Demo
 ![Demo ] 
-*[Watch full video]([[https://youtu.be/your-demo-link])* | 
+*[Watch full video]([[https://youtu.be/your-demo-link])(https://drive.google.com/drive/folders/1sef8Y7ix82gpY3Wm8610Chdsgim7P4pP?usp=drive_link)* | 
 ## 📌 Problem Statement
 - **Generic recommendations**: Showing "running shoes" after purchase
 - **Slow personalization**: Manual segmentation can't adapt in real-time
