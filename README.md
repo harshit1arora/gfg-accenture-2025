@@ -31,9 +31,8 @@ Agents: FastAPI, LangChain
 
 - Tools Used:
 Web Scraping: BeautifulSoup
-Frontend Demo: Streamlit 
-Deployment: Docker![image](https://github.com/user-attachments/assets/9e29ddc0-65c2-4785-bc1e-336bb44e658c)
-
+Frontend Demo: Streamlit
+Deployment: Docker
 
 ## 📂 Repository Structure
 📜 License
