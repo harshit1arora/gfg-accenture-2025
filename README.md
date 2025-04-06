@@ -35,6 +35,30 @@ Frontend Demo: Streamlit
 Deployment: Docker
 
 ## 📂 Repository Structure
+smartcart-ai/
+│
+├── agents/
+│   ├── user_agent.py        # Tracks behavior (clicks, dwell time)
+│   ├── product_agent.py     # Tags/analyzes products
+│   └── recommender_agent.py # Generates suggestions
+│
+├── core/
+│   ├── models.py           # Ollama embeddings wrapper
+│   ├── database.py         # SQLite CRUD operations
+│   └── utils.py            # Helper functions
+│
+├── api/
+│   ├── endpoints.py        # FastAPI routes
+│   └── schemas.py         # Pydantic models
+│
+├── frontend/
+│   └── streamlit_app.py    # Demo UI
+│
+├── tests/                  # Unit/integration tests
+├── config.py               # API keys, paths
+└── main.py                 # Entry point
+
+
 📜 License
 MIT © 2023 Harshit Arora
 ---
