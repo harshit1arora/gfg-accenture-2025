@@ -10,8 +10,8 @@ E-commerce platforms struggle with: Generic recommendations ("Customers also bou
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## 🚀 Demo
-![Demo ](https://drive.google.com/drive/folders/1sef8Y7ix82gpY3Wm8610Chdsgim7P4pP?usp=sharing)  
-*[Watch full video]([https://youtu.be/your-demo-link](https://drive.google.com/drive/folders/1sef8Y7ix82gpY3Wm8610Chdsgim7P4pP?usp=sharing))* | 
+![Demo ] 
+*[Watch full video]([[https://youtu.be/your-demo-link])* | 
 ## 📌 Problem Statement
 - **Generic recommendations**: Showing "running shoes" after purchase
 - **Slow personalization**: Manual segmentation can't adapt in real-time
